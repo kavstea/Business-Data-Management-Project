@@ -2,7 +2,9 @@ grade: S
 
 no. of terms spent: 2 
 
-all i did was used excel/google sheets to make basic basic charts from the data to find the patterns, writing 3 reports detailing Business Background and it's challenges;
+all i did was used excel/google sheets to make basic basic charts from the data to find the patterns, writing 3 reports detailing 
+
+Business Background and it's challenges;
 
 Meta Data and Descriptive Statistics of the Data used for the analysis; 
 
