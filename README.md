@@ -2,13 +2,13 @@ grade: S
 
 no. of terms spent: 2 (procrastination inclusive)
 
-not too advanced, for me this project was more about essay writing and data story telling than applying or using in-depth/technical data analysis techniques/tools.
-what i did was, i used excel/google sheets to make basic basic charts from the data to find the patterns and writing 3 reports (most absorbing part) detailing-
+not too advanced, for me this project was more about essay writing and data story telling than applying complex data analysis techniques/tools.
+I used Excel and Google Sheets to make simple charts and find patterns in the data followed by writing 3 reports (most absorbing part):
 
-Business Background and it's challenges;
+one on Business Background and it's Challenges;
 
-Meta Data and Descriptive Statistics of the data used for the analysis; 
+another on Meta Data and Descriptive Statistics of the data used for the analysis; 
 
-Results-Findings-Interpretations-Recommedations;
+last one on Results-Findings-Interpretations-Recommedations;
 
-and finally summarizing the whole project journey in a 10 page ppt.
+and then wrapping up the project journey in 10-page presentation.
