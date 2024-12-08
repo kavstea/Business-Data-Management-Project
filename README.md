@@ -1,6 +1,6 @@
 grade: S
 
-no. of terms spent: 2 
+no. of terms spent: 2 (procrastination inclusive)
 
 all i did was used excel/google sheets to make basic basic charts from the data to find the patterns, writing 3 reports detailing 
 
