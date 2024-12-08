@@ -11,4 +11,4 @@ another on Meta Data and Descriptive Statistics of the data used for the analysi
 
 last one on Results-Findings-Interpretations-Recommedations;
 
-and then wrapping up the project journey in 10-page presentation.
+and then i wrapped up the project journey in 10-page presentation.
