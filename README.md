@@ -3,7 +3,7 @@ grade: S
 no. of terms spent: 2 (procrastination inclusive)
 
 for me this project was about essay writing and data story telling than applying complex data analysis techniques/tools.
-I used Excel and Google Sheets to make simple charts and find patterns in the data followed by writing 3 reports (most absorbing part):
+I used Excel and Google Sheets to make simple charts from the data and found patterns in it followed by writing 3 reports (most absorbing part):
 
 one on Business Background and it's Challenges;
 
