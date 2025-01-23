@@ -1,4 +1,5 @@
 > grade: S
+> 
 > no. of terms spent: 2 (procrastination included)
 
 in this project, i worked with an astrology business to understand their challenges, analyzed their data to identify trends, and provided recommendations to address those issues.
