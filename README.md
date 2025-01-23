@@ -2,13 +2,11 @@ grade: S
 
 no. of terms spent: 2 (procrastination inclusive)
 
-for me, this project was about essay writing and data story telling than applying complex data analysis techniques/tools.
-I used Excel and Google Sheets to make simple charts from the data and found patterns in it, followed by writing 3 reports (most absorbing part):
+in this project, i worked with an astrology business to understand their challenges, analyzed their data to identify trends, and provided recommendations to address those issues.
 
-one on Business Background and it's Challenges;
+for me, this project was more about essay writing and data storytelling than applying complex data analysis techniques or tools. i used excel and google sheets to create simple charts from the data and identify patterns, followed by writing three reports (the most absorbing part):
 
-another on Meta Data and Descriptive Statistics of the data used for the analysis; 
-
-last one on Results-Findings-Interpretations-Recommedations;
-
-and then i wrapped up the project journey in 10-page presentation.
+one on the business background and its challenges
+another on the metadata and descriptive statistics of the data used for the analysis
+the last one on results, findings, interpretations, and recommendations
+finally, i wrapped up the project journey in a 10-page presentation.
