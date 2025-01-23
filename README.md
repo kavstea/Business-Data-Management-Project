@@ -9,6 +9,6 @@ in this project, i worked with an astrology business to understand their challen
 >another on the metadata and descriptive statistics of the data used for the analysis
 >
 >the last one on results, findings, interpretations, and recommendations
-
-finally, i wrapped up the project journey in a 10-page presentation.
+>
+>finally, i wrapped up the project journey in a 10-page presentation.
 
