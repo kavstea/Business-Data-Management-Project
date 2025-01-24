@@ -8,7 +8,7 @@
 >
 >The mid-term report (made using Google Docs) focused on the metadata and descriptive statistics of the data used for analysis.
 >
->The final report (made using Google Docs) presented results, findings, interpretations, and recommendations.
+>The final report (made using Google Docs) presented analysis methodology, results, findings, interpretations, and recommendations.
 >
 >In the end, the project journey was summarized in a 10-page presentation (made using Google Slides).
 
