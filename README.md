@@ -10,7 +10,7 @@
 >
 >The final report (created using Google Docs) presented analysis methodology, results, findings, interpretations, and recommendations.
 >
->In the end, the project journey was summarized in a 10-page presentation (made using Google Slides).
+>In the end, the project journey was summarized in a 10-page presentation (created using Google Slides).
 
 
 
