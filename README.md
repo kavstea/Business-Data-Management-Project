@@ -1,13 +1,12 @@
 Grade: S
-
 Time spent: 2 terms (with some procrastination)
 
-For this project, I worked with an astrology business to understand their problems, analyze their data, and spot trends. Based on this, I gave simple, practical recommendations. The focus was more on writing reports and explaining the data clearly, rather than using complex tools. I used Excel and Google Sheets to create basic charts and highlight key patterns.
+For this project, I teamed up with an astrology business to understand their challenges, dive into their data, and find trends. I gave them practical recommendations based on what I found. The focus was more on writing reports and clearly explaining the data rather than using complex analysis tools. I used Excel and Google Sheets to create simple charts that helped identify patterns.
 
-The proposal report (done in MS Word) explained the business and its challenges.
-The mid-term report (done in Google Docs) covered the key details of the data.
-The final report (done in Google Docs) presented the analysis, results, and recommendations.
-I finished it up with a 10-page presentation (done in Google Slides).
+The proposal report (in MS Word) covered the business background and its main challenges.
+The mid-term report (in Google Docs) explained the data’s key details and basic stats.
+The final report (in Google Docs) included the analysis, findings, and recommendations.
+I wrapped everything up in a 10-page presentation (in Google Slides) that summed up all the important points.
 
 
 
