@@ -1,17 +1,13 @@
->Grade: S
-> 
->No. of terms spent: 2 (including some procrastination)
+Grade: S
 
->In this project, I collaborated with an astrology business to understand their challenges, analyze their data, and identify trends. I provided recommendations to address these issues. The focus was more on report writing and data storytelling than on using advanced data analysis techniques or tools. I used Excel and Google Sheets to create simple charts from the data to spot patterns. The most engaging part was writing three detailed reports.
+Time spent: 2 terms (with some procrastination)
 
->The proposal report (created using MS Word) covered the business background and its challenges.
->
->The mid-term report (created using Google Docs) focused on the metadata and descriptive statistics of the data used for analysis.
->
->The final report (created using Google Docs) presented analysis methodology, results, findings, interpretations, and recommendations.
->
->In the end, the project journey was summarized in a 10-page presentation (created using Google Slides).
+For this project, I worked with an astrology business to understand their problems, analyze their data, and find trends. I then gave simple, practical recommendations. The focus was more on writing reports and explaining the data than on using complex analysis tools. I used Excel and Google Sheets to create basic charts and spot patterns. The best part was writing the three reports.
 
+The proposal report (done in MS Word) covered the business and its challenges.
+The mid-term report (done in Google Docs) explained the data’s key details and stats.
+The final report (done in Google Docs) included the analysis, findings, and recommendations.
+I wrapped everything up in a 10-page presentation (done in Google Slides).
 
 
 
