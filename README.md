@@ -2,7 +2,7 @@
 
 **Grade:** S 
 
-**Time Spent:** 2 terms (with some procrastination) ⏳
+**Time Spent:** 2 terms (with some procrastination) 
 
 ---
 
