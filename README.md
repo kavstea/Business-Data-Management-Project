@@ -1,12 +1,12 @@
 # Project Overview 
 
-**Grade:** S �
+**Grade:** S 
 
 **Time Spent:** 2 terms (with some procrastination) ⏳
 
 ---
 
-## Project Description 📊
+## Project Description 
 
 For this project, I teamed up with an astrology business to understand their challenges, dive into their data, and find trends. I provided them with practical recommendations based on the insights I discovered. The focus was more on writing reports and clearly explaining the data rather than using complex analysis tools. I used **Excel** and **Google Sheets** to create simple charts that helped identify patterns.
 
@@ -30,12 +30,11 @@ For this project, I teamed up with an astrology business to understand their cha
 
 ## Tools Used 
 
-- **Excel** 📈
-- **Google Sheets** 📊
-- **MS Word** 📝
-- **Google Docs** 📑
-- **Google Slides** 🖥️
+- **Excel** 
+- **Google Sheets** 
+- **MS Word** 
+- **Google Docs** 
+- **Google Slides** 
 
----
 
 
