@@ -17,11 +17,11 @@ For this project, I teamed up with an astrology business to understand their cha
 ---
 
 ## Tools Used
-- **Excel** 📈
-- **Google Sheets** 📊
-- **MS Word** 📝
-- **Google Docs** 📑
-- **Google Slides** 🖥️
+- **Excel** 
+- **Google Sheets** 
+- **MS Word** 
+- **Google Docs** 
+- **Google Slides** 
 
 ---
 
