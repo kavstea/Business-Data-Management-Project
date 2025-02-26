@@ -4,7 +4,7 @@
 
 **Time Spent:** 2 terms (with some procrastination)  
 
-For this project, I teamed up with an astrology business to understand their challenges, dive into their data, and find trends. I provided them with practical recommendations based on the insights I discovered. The focus was more on writing reports and clearly explaining the data rather than using complex analysis tools. I used **Excel** and **Google Sheets** to create simple charts that helped identify patterns.
+This project analyzes business challenges, identifies data-driven insights, and provides actionable solutions. I teamed up with an astrology business to understand their challenges, dive into their data, and find trends. I provided them with practical recommendations based on the insights I discovered. The focus was more on writing reports and clearly explaining the data rather than using complex analysis tools. I used **Excel** and **Google Sheets** to create simple charts that helped identify patterns.
 
 ---
 
