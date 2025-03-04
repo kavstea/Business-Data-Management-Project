@@ -1,6 +1,6 @@
 # Project Overview 
 
-**Grade:** S (tho not the best capstone pick)
+**Grade:** S (not the best capstone pick though)
 
 **Time Spent:** 2 terms (with some procrastination)  
 
