@@ -22,7 +22,7 @@ For this project, I teamed up with an astrology business to explore their pain p
 ---
 
 ## Deliverables
-1. **Proposal Report**: Outlined the business background and challenges.
+1. **Proposal Report**: Outlined the business background, it's challenges, and the problem solving approach.
 2. **Mid-Term Report**: Summarized key data details and basic statistics.
 3. **Final Report**: Included analysis, findings, and recommendations.
 4. **Final Presentation**: A 10-page Google Slides deck summarizing all key points.
