@@ -20,7 +20,7 @@ For this project, I teamed up with an astrology business to explore their pain p
   - Identified challenges: low user retention, high aquisition cost, revenue drop
 
 - [x] Data Analysis  
-  - Analyzed data with **Excel** and **Google Sheets**
+  - Collected and analyzed 3.5 months of data (in-app transactions, retention rates, marketing channel performance) using **Excel** and **Google Sheets**.
   - Created visualizations to uncover patterns
 
 - [x] Actionable Insights  
