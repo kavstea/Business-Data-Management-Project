@@ -6,7 +6,7 @@ For this project, I teamed up with an astrology business to explore their pain p
 
 <div align="center">
   <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="45%" alt="Data analysis in Excel">
-  <img src="/Deliverable/images/Screenshot 2025-04-27 064704.png" width="45%" alt="Trend visualization_1">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="45%" alt="Trend visualization_1">
   <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="45%" alt="Trend visualization_2">
 </div>
 
