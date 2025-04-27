@@ -3,7 +3,7 @@
 For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings.
 
 <div align="center">
-  <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="30%" alt="Data analysis in Excel">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="30%" height="200px" alt="Data analysis in Excel">
   <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="30%" alt="Trend visualization_1">
   <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="30%" alt="Trend visualization_2">
 </div>
