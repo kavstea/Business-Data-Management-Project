@@ -15,10 +15,14 @@ For this project, I teamed up with an astrology business to explore their pain p
 
 ## Key Features  
 ```
-- **Problem Identification**: Collaborated with an astrology business to understand their challenges  
-- **Data Analysis**: Used Excel and Google Sheets to analyze data and create visualizations  
-- **Actionable Insights**: Provided practical recommendations based on data trends  
-- **Reports and Presentation**: Delivered a proposal report, mid-term report, final report, and a 10-page presentation summarizing the findings  
+- Problem Identification:
+ Collaborated with an astrology business to understand their challenges  
+- Data Analysis:
+ Used Excel and Google Sheets to analyze data and create visualizations  
+- Actionable Insights:
+ Provided practical recommendations based on data trends  
+- Reports and Presentation:
+ Delivered a proposal report, mid-term report, final report, and a 10-page presentation summarizing the findings  
 ```
 ---
 
