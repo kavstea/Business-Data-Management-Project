@@ -14,7 +14,7 @@ For this project, I teamed up with an astrology business to explore their pain p
 ---
 
 ## Key Features  
-```
+
 - [x] Problem Identification  
   - Collaborated with astrology business
   - Identified challenges: low retention, high cost, low revenue
@@ -31,7 +31,7 @@ For this project, I teamed up with an astrology business to explore their pain p
   - Mid-Term Report
   - Final Report
   - 10-Page Summary Presentation
-```
+
 ---
 
 ## Tools Used  
