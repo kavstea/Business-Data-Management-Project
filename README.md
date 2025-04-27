@@ -17,7 +17,7 @@ For this project, I teamed up with an astrology business to explore their pain p
 
 - [x] Problem Identification  
   - Collaborated with astrology business
-  - Identified challenges: low retention, high cost, low revenue
+  - Identified challenges: low user retention, high aquisition cost, revenue drop
 
 - [x] Data Analysis  
   - Analyzed data with **Excel** and **Google Sheets**
