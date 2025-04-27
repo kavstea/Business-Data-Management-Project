@@ -24,7 +24,7 @@ For this project, I teamed up with an astrology business to explore their pain p
   - Created visualizations to uncover patterns
 
 - [x] Actionable Insights  
-  - Provided practical, data-driven recommendations
+  - Proposed practical, data-backed recommendations
 
 - [x] Reports and Presentation  
   - Proposal Report
