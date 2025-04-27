@@ -4,7 +4,7 @@
   <div>
   <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="100%" height='120px' alt="Data analysis in Excel">
   </div>  
-  <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="49%" height='120px' alt="Trend visualization_1">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="50%" height='120px' alt="Trend visualization_1">
   <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="49%" height='120px' alt="Trend visualization_2">
 </div>
 
