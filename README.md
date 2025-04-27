@@ -1,5 +1,3 @@
-# Astrology Business Data Analysis 
-
 ## Project Overview  
 
 For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings.
