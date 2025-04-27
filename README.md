@@ -45,5 +45,5 @@ For this project, I teamed up with an astrology business to explore their pain p
 ---
 
 <div align="center">
-  <em>Thankyou!</em>
+  <em>The end!</em>
 </div>
