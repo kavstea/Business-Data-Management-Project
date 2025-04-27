@@ -5,9 +5,9 @@
 For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings.
 
 <div align="center">
-  <img src="/images/Screenshot 2025-04-27 071520.png" width="45%" alt="Data analysis in Excel">
-  <img src="/images/Screenshot 2025-04-27 064704.png" width="45%" alt="Trend visualization_1">
-  <img src="/images/Screenshot 2025-04-27 064716.png" width="45%" alt="Trend visualization_2">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="45%" alt="Data analysis in Excel">
+  <img src="/Deliverable/images/Screenshot 2025-04-27 064704.png" width="45%" alt="Trend visualization_1">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="45%" alt="Trend visualization_2">
 </div>
 
 The emphasis was on crafting clear, insightful reports and communicating data effectively, rather than using complex analytical tools. Based on the insights, I provided practical recommendations to address their challenges. 
