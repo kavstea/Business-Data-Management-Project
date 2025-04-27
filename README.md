@@ -1,28 +1,51 @@
-# Project Overview 
+# Astrology Business Data Analysis Project  
 
-For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings. The emphasis was on crafting clear, insightful reports and communicating data effectively, rather than using complex analytical tools. Based on the insights, I provided practical recommendations to address their challenges.
+## Project Overview  
 
----
+For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings.
 
-## Key Features
-- **Problem Identification**: Collaborated with an astrology business to understand their challenges.
-- **Data Analysis**: Used **Excel** and **Google Sheets** to analyze data and create visualizations.
-- **Actionable Insights**: Provided practical recommendations based on data trends.
-- **Reports and Presentation**: Delivered a proposal report, mid-term report, final report, and a 10-page presentation summarizing the findings.
+<div align="center">
+  <img src="/images/Screenshot 2025-04-27 071520.png" width="45%" alt="Data analysis in Excel">
+  <img src="/images/Screenshot 2025-04-27 064704.png" width="45%" alt="Trend visualization_1">
+  <img src="/images/Screenshot 2025-04-27 064716.png" width="45%" alt="Trend visualization_2">
+</div>
 
----
-
-## Tools Used
-- **Excel** 
-- **Google Sheets** 
-- **MS Word** 
-- **Google Docs** 
-- **Google Slides** 
+The emphasis was on crafting clear, insightful reports and communicating data effectively, rather than using complex analytical tools. Based on the insights, I provided practical recommendations to address their challenges. 
 
 ---
 
-## Deliverables
-1. **Proposal Report**: Outlined the business background, it's challenges, and the problem solving approach.
-2. **Mid-Term Report**: Summarized key data details and basic statistics.
-3. **Final Report**: Included analysis, findings, and recommendations.
-4. **Final Presentation**: A 10-page Google Slides deck summarizing all key points.
+## Key Features  
+
+- **Problem Identification**: Collaborated with an astrology business to understand their challenges  
+- **Data Analysis**: Used Excel and Google Sheets to analyze data and create visualizations  
+- **Actionable Insights**: Provided practical recommendations based on data trends  
+- **Reports and Presentation**: Delivered a proposal report, mid-term report, final report, and a 10-page presentation summarizing the findings  
+
+---
+
+## Tools Used  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/MS%20Word-2B579A?logo=microsoftword&logoColor=white" alt="MS Word">
+  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white" alt="Google Docs">
+  <img src="https://img.shields.io/badge/Google%20Slides-F4B400?logo=googleslides&logoColor=white" alt="Google Slides">
+</p>
+
+---
+
+## Deliverables  
+
+| Deliverable | Description |
+|------------|-------------|
+| **Proposal Report** | Outlined the business background, its challenges, and the problem solving approach |
+| **Mid-Term Report** | Summarized key data details and basic statistics |
+| **Final Report** | Included analysis, findings, and recommendations |
+| **Final Presentation** | A 10-page Google Slides deck summarizing all key points |
+
+---
+
+<div align="center">
+  <em>Thankyou!</em>
+</div>
