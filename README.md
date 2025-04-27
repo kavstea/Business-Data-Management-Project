@@ -1,4 +1,4 @@
-# Astrology Business Data Analysis Project  
+# Astrology Business Data Analysis 
 
 ## Project Overview  
 
