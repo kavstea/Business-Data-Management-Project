@@ -1,6 +1,6 @@
 ## Project Overview  
 
-<div align="center">
+<div>
   <div>
   <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="30%" alt="Data analysis in Excel">
   </div>  
