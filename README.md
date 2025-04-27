@@ -4,8 +4,8 @@
   <div>
   <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="100%" height='120px' alt="Data analysis in Excel">
   </div>  
-  <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="50%" height='120px' alt="Trend visualization_1">
-  <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="50%" height='120px' alt="Trend visualization_2">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="49%" height='120px' alt="Trend visualization_1">
+  <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="49%" height='120px' alt="Trend visualization_2">
 </div>
 
 For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings. The emphasis was on crafting clear, insightful reports and communicating data effectively, rather than using complex analytical tools. Based on the insights, I provided practical recommendations to address their challenges. 
