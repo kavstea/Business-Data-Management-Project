@@ -1,9 +1,7 @@
 ## Project Overview  
 
 <div>
-  <div>
   <img src="/Deliverables/images/Screenshot 2025-04-27 071520.png" width="30%" alt="Data analysis in Excel">
-  </div>  
   <img src="/Deliverables/images/Screenshot 2025-04-27 064704.png" width="30%" alt="Trend visualization_1">
   <img src="/Deliverables/images/Screenshot 2025-04-27 064716.png" width="30%" alt="Trend visualization_2">
 </div>
