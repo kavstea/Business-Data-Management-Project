@@ -9,7 +9,6 @@
 </div>
 
 **Grade: S**
-
 For this project, I teamed up with an astrology business to explore their pain points, dive into their data, and identify key trends. Using Excel and Google Sheets, I created straightforward charts to visualize patterns and support my findings. The emphasis was on crafting clear, insightful reports and communicating data effectively, rather than using complex analytical tools. Based on the insights, I provided practical recommendations to address their challenges. 
 
 ---
